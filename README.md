@@ -92,3 +92,44 @@ Actual Voting:
 <img width="1259" alt="Screen Shot 2023-05-22 at 10 51 51 PM" src="https://github.com/dylmcgold/nbamvp/assets/59912473/a79ac3cd-84b4-4c83-abfe-c341f13c0bfd">  
 SQL Stat MVP: Kevin Durant  
 Actual MVP: Kevin Durant  
+
+## 2012-13✅:  
+SQL:   
+<img width="1410" alt="nba2013" src="https://github.com/dylmcgold/nbamvp/assets/59912473/658ebe7d-4d09-49d5-af2d-510d536e8d9d">  
+Actual Voting:  
+<img width="721" alt="voting2013" src="https://github.com/dylmcgold/nbamvp/assets/59912473/ec079578-c9ab-4609-8e8a-fa448440d532">  
+SQL Stat MVP: LeBron James  
+Actual MVP: LeBron James  
+
+## 2011-12✅:  
+SQL:   
+<img width="1413" alt="nba2012" src="https://github.com/dylmcgold/nbamvp/assets/59912473/bd3dccde-e40e-49b6-9278-be72a9444338">  
+Actual Voting:  
+<img width="680" alt="voting2012" src="https://github.com/dylmcgold/nbamvp/assets/59912473/1458555f-c369-4bde-ae95-da144a055347">  
+SQL Stat MVP: LeBron James  
+Actual MVP: LeBron James  
+
+## 2010-11❌:  
+SQL:   
+<img width="1411" alt="nba2011" src="https://github.com/dylmcgold/nbamvp/assets/59912473/477003a0-0941-429a-9790-aa9d7e9e13a2">  
+Actual Voting:  
+<img width="684" alt="voting2011" src="https://github.com/dylmcgold/nbamvp/assets/59912473/8769965e-7a47-4a66-8fdd-25e55bd4aea3">  
+SQL Stat MVP: LeBron James  
+Actual MVP: Derrick Rose  
+
+## 2009-10✅:  
+SQL:   
+<img width="1413" alt="nba2010" src="https://github.com/dylmcgold/nbamvp/assets/59912473/821b4719-d789-4ee2-a767-0da48cf758e3">  
+Actual Voting:  
+<img width="750" alt="voting2010" src="https://github.com/dylmcgold/nbamvp/assets/59912473/8e90c94e-6bd3-4286-8e02-aaad372441d1">  
+SQL Stat MVP: LeBron James  
+Actual MVP: LeBron James
+
+## 2008-09✅:  
+SQL:   
+<img width="1413" alt="nba2009" src="https://github.com/dylmcgold/nbamvp/assets/59912473/a7aff584-dfeb-48f9-a250-199ebf88aeef">  
+Actual Voting:  
+<img width="424" alt="voting2009" src="https://github.com/dylmcgold/nbamvp/assets/59912473/2287b82b-dc2d-4e3b-8615-51205c214f03">  
+SQL Stat MVP: LeBron James  
+Actual MVP: LeBron James
+
